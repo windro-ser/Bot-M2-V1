@@ -25,7 +25,7 @@
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@WINDROYT/WhatsAsena-QR#index.js)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/windro-ser/BotM2-V1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/windro-ser/Bot-M2-V1)
      </div>
      
      ## TERMUX SET UP
@@ -37,8 +37,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/windro-ser/BotM2-V1
-$ cd BotM2-V1
+$ git clone https://github.com/windro-ser/Bot-M2-V1
+$ cd Bot-M2-V1
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -48,8 +48,8 @@ $ node qr.js
 ```js
 SETUP
 
-$ git clone https://github.com/windro-ser/BotM2-V1
-$ cd BotM2-V1
+$ git clone https://github.com/windro-ser/Bot-M2-V1
+$ cd Bot-M2-V1
 $ chmod +x *
 $ npm i
 $ node qr.js
